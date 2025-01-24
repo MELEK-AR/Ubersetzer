@@ -1,0 +1,13 @@
+Hund;Dog
+Katze;Cat
+Mensch;Human
+Huhn;Chicken
+Glass;Glass
+Seife;Soap
+Milch;Milk
+Tisch;Table
+Schuh;Shoe
+Fahrrad;Bycicle
+Hallo;Hello
+Nett;Nice
+Gut;Good
